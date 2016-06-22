@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<updates>
+    <download name="TestAutoUpdate.exe">
+        <version maj="2" min="0" bld="0" rev="0"/>
+		<message>Important Update. My very important release/update note. This will be displayed within the Update Form</message>
+      	<link>http://whereyouwant/AppUpdater/update.zip</link>
+    </download>
+</updates>

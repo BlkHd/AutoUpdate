@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestAutoUpdate", "TestAutoUpdate\TestAutoUpdate.vbproj", "{D0B812F3-296D-47DF-9AA9-A04D869401F2}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AppUpdater", "AppUpdater\AppUpdater.vbproj", "{C58FD964-3A49-4A56-B77F-DA5C8188BDE1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FileUpdater", "FileUpdater\FileUpdater.vbproj", "{D211C195-14F1-4467-990F-077942860C28}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://suntechsrl.visualstudio.com/DefaultCollection
+		SccProjectUniqueName0 = AppUpdater\\AppUpdater.vbproj
+		SccProjectName0 = AppUpdater
+		SccLocalPath0 = AppUpdater
+		SccProjectUniqueName1 = FileUpdater\\FileUpdater.vbproj
+		SccProjectName1 = FileUpdater
+		SccLocalPath1 = FileUpdater
+		SccLocalPath2 = .
+		SccProjectUniqueName3 = TestAutoUpdate\\TestAutoUpdate.vbproj
+		SccProjectName3 = TestAutoUpdate
+		SccLocalPath3 = TestAutoUpdate
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0B812F3-296D-47DF-9AA9-A04D869401F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B812F3-296D-47DF-9AA9-A04D869401F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B812F3-296D-47DF-9AA9-A04D869401F2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D0B812F3-296D-47DF-9AA9-A04D869401F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B812F3-296D-47DF-9AA9-A04D869401F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B812F3-296D-47DF-9AA9-A04D869401F2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C58FD964-3A49-4A56-B77F-DA5C8188BDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58FD964-3A49-4A56-B77F-DA5C8188BDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58FD964-3A49-4A56-B77F-DA5C8188BDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58FD964-3A49-4A56-B77F-DA5C8188BDE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D211C195-14F1-4467-990F-077942860C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D211C195-14F1-4467-990F-077942860C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D211C195-14F1-4467-990F-077942860C28}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D211C195-14F1-4467-990F-077942860C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D211C195-14F1-4467-990F-077942860C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D211C195-14F1-4467-990F-077942860C28}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
